@@ -63,6 +63,7 @@
     border-radius: 15px;
 }
 
+/* Index */
 .contenedor{
     padding: 4px;
     display: flex;
@@ -156,6 +157,7 @@
     color: beige;
 }
 
+/* Biblioteca */
 .foto-peli{
     height: 15vh;
     width: 8vw;
@@ -175,6 +177,7 @@
     background-color: rgb(174, 174, 153);
 }
 
+/* Contacto */
 .formulario{
     width: 100vw;
     padding: 1rem;
